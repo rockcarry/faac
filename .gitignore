@@ -14,6 +14,7 @@ Makefile*
 *.deps
 *.libs
 *.la
+*.pc
 *~
 /frontend/faac
 /aclocal.m4
